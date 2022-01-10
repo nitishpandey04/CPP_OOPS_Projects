@@ -2,7 +2,7 @@
 
 using namespace std;
 
-#include "fraction.cpp" 
+#include "Fraction.cpp" 
 
 int main() {
 
